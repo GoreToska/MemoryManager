@@ -154,7 +154,11 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
+    <ClCompile Include="Classes\FSA.cpp" />
     <ClCompile Include="MemoryManager.cpp" />
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="Classes\FSA.h" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
