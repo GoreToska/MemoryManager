@@ -1,0 +1,6 @@
+D:\CPP Projects\Algols\MemoryManager\Classes\Allocators\allocator_base.cpp;D:\CPP Projects\Algols\MemoryManager\MemoryManager\x64\Debug\allocator_base.obj
+D:\CPP Projects\Algols\MemoryManager\Classes\Allocators\coalesce_allocator.cpp;D:\CPP Projects\Algols\MemoryManager\MemoryManager\x64\Debug\coalesce_allocator.obj
+D:\CPP Projects\Algols\MemoryManager\Classes\Allocators\fixed_size_allocator.cpp;D:\CPP Projects\Algols\MemoryManager\MemoryManager\x64\Debug\fixed_size_allocator.obj
+D:\CPP Projects\Algols\MemoryManager\Classes\Allocators\os_allocator.cpp;D:\CPP Projects\Algols\MemoryManager\MemoryManager\x64\Debug\os_allocator.obj
+D:\CPP Projects\Algols\MemoryManager\Classes\memory_allocator.cpp;D:\CPP Projects\Algols\MemoryManager\MemoryManager\x64\Debug\memory_allocator.obj
+D:\CPP Projects\Algols\MemoryManager\MemoryManager.cpp;D:\CPP Projects\Algols\MemoryManager\MemoryManager\x64\Debug\MemoryManager.obj
